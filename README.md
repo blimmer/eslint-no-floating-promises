@@ -1,6 +1,6 @@
 # eslint-no-floating-promises
 
-This PR is a repro case for an issue opened against eslint.
+This PR is a repro case for an issue opened against eslint. See [typescript-eslint issue 2640](https://github.com/typescript-eslint/typescript-eslint/issues/2640).
 
 ## Instructions
 
@@ -10,7 +10,7 @@ This PR is a repro case for an issue opened against eslint.
 
 ## Example Code
 
-The example is located at [src/example.ts](/blob/master/src/example.ts)
+The example is located at [src/example.ts](/blob/main/src/example.ts)
 
 ## Lint Errors
 
