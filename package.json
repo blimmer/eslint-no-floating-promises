@@ -19,6 +19,7 @@
   },
   "dependencies": {
     "fastify": "^3.5.1",
-    "fastify-cookie": "^4.1.0"
+    "fastify-cookie": "^4.1.0",
+    "knex": "^0.21.6"
   }
 }
